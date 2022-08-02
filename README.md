@@ -1,5 +1,5 @@
 # DissertationProject
-## hat was my dissertation?
+## What was my dissertation?
 My dissertation was based on pathfinding for a group of AI (agents), without using flocking. My dissertation was split between the project, collecting the data and then putting that data into graphs.
 
 ## What data did I collect?
